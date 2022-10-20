@@ -49,6 +49,9 @@
 下欄位設定:
 
 <img width="336" alt="image" src="https://user-images.githubusercontent.com/95067096/196852509-9d54d21f-3043-436a-966b-2cd68b200dec.png">
+設定外鍵
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/95067096/196904553-5232f9f9-3405-4fd3-93a9-5c323a907d18.png">
+
 <img width="570" alt="image" src="https://user-images.githubusercontent.com/95067096/196852606-f80436d6-ea47-4110-a330-908f6aed172d.png">
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/95067096/196852733-52b41a82-c6b4-4c91-a68b-99de644b7bdd.png">
 
